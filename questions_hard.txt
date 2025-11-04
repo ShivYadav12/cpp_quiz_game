@@ -1,0 +1,12 @@
+What is the time complexity of quicksort in average case?
+A) O(n)
+B) O(n log n)
+C) O(n^2)
+D) O(log n)
+B
+Which keyword is used to define an abstract class in C++?
+A) virtual
+B) abstract
+C) pure
+D) static
+A

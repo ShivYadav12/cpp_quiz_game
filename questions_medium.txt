@@ -1,0 +1,12 @@
+Which planet is known as the Red Planet?
+A) Earth
+B) Mars
+C) Jupiter
+D) Venus
+B
+Who developed the C++ language?
+A) Bjarne Stroustrup
+B) James Gosling
+C) Dennis Ritchie
+D) Guido van Rossum
+A
